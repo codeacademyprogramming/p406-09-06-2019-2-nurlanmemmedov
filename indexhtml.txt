@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,700i,900,900i&display=swap"
+        rel="stylesheet">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+
+<body>
+    <div class="contanier">
+        <header>
+
+            <section id="basliq">
+                <div class="accentpart">
+                    <h3>Accent</h3>
+                </div>
+                <div class="menupart">
+                    <h3>menu</h3>
+                </div>
+            </section>
+    </div>
+    <section id="startproject" class="common">
+        <h1 class="webstudio">ACCENT WEB STUDIO</h1>
+        <p class="webstudiocontent">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate nobis tempora a
+            assumenda</p>
+        <button>start a project</button>
+    </section>
+    </header>
+    <main>
+        <div class="contanier">
+            <section id="aboutus" class="common">
+                <div class="imgarea">
+                    <img src="img/wocintech-8-1080x675.jpg" alt="" class="img">
+                </div>
+                <div class="contentarea">
+                    <h1 class="expertweb">We are expert in web</h1>
+                    <p>Lorem ipsum dolor si. Quaerat, aliquid eaque esse in cumque commodi ad illum officia autem
+                        accusantium quia harum hic nam itaque nemo? Ea eius ipsa alias.</p>
+                    <ul>
+                        <li>Design</li>
+                        <li>Development</li>
+                        <li>eCommerce</li>
+                        <li>Mobileapps</li>
+                        <li>Copywritings</li>
+                        <li>SEO</li>
+                    </ul>
+                </div>
+            </section>
+            <section id="branding" class="common">
+                <div class="models">
+                    <div class="james">
+                        <img src="img/profile-1544619486-72d574102f5fd1377ef56cc4144edb74.jpg" alt="">
+                        <h3 class="name">James Henderson</h3>
+                        <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam porro sed
+                            omnis
+                            id. Soluta illo exercitationem, impedit sint reiciendis quam laboriosam corporis, odit quis
+                            quaerat distinctio quidem! Repudiandae, reiciendis cupiditate!
+                            Sit explicabo libero sequi nisi repellendus quasi, repudiandae at. Voluptate rerum pariatur
+                            ex
+                            consectetur perspiciatis nesciunt reprehenderit voluptates quaerat similique, quam
+                            distinctio
+                            sapiente perferendis saepe accusamus! Excepturi tenetur itaque quaerat?
+                            Consequatur, laborum atque. Iste tempora obcaecati quae reiciendis cumque temporibus at. Ab
+                            ipsam praesentium quaerat laborum iste. Culpa, nobis quam ut ex sequi minima laudantium eius
+                            quibusdam libero dolore veritatis.</p>
+                    </div>
+                    <div class="chris">
+                        <img src="img/profile-1498559823-08664ddcce007387d4a564580486b9d8.jpg" alt="">
+                        <h3 class="name">Chris Peters</h3>
+                        <p class="content">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium aliquam
+                            velit, tempore cumque animi nesciunt minima vitae dolores porro, in, mollitia commodi
+                            temporibus
+                            neque maiores omnis esse maxime? Rerum, et?
+                            Voluptates, adipisci blanditiis libero expedita voluptate earum! Suscipit placeat mollitia
+                            voluptas, earum aperiam, ducimus unde eos pariatur esse tempora repudiandae nam architecto
+                            omnis
+                            et tempore itaque blanditiis ad ab ex?
+                            Maiores, rerum consequuntur commodi quia vel eos. Totam, ex quas? Nam, unde! Doloremque
+                            officia
+                            perspiciatis quasi iure a pariatur obcaecati qui unde temporibus, laborum culpa nam sequi
+                            debitis labore quo?</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <section id="whatwedo" class="common">
+            <div class="inside">
+                <div class="head">
+                    <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
+                </div>
+                <a href="">
+                    <div class="services">
+                        <div class="icon"><i class="fab fa-envira"></i></div>
+                        <div class="servicename">
+                            <h4>web Design</h4>
+                        </div>
+                        <div class="serviceinform">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In sapiente quod quaerat
+                                blanditiis, repellendus veritatis qui libero natus </p>
+                        </div>
+                        <div class="learnmore">
+                            <p>learn more</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="">
+
+                    <div class="services">
+                        <div class="icon"><i class="fas fa-laptop"></i></div>
+                        <div class="servicename">
+                            <h4>web development</h4>
+                        </div>
+                        <div class="serviceinform">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In sapiente quod quaerat
+                                blanditiis, repellendus veritatis qui libero natus </p>
+                        </div>
+                        <div class="learnmore">
+                            <p>learn more</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="services">
+                        <div class="icon"><i class="fab fa-app-store-ios"></i></div>
+                        <div class="servicename">
+                            <h4>web apps</h4>
+                        </div>
+                        <div class="serviceinform">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In sapiente quod quaerat
+                                blanditiis, repellendus veritatis qui libero natus </p>
+                        </div>
+                        <div class="learnmore">
+                            <p>learn more</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="services">
+                        <div class="icon"><i class="fas fa-mobile-alt"></i></div>
+                        <div class="servicename">
+                            <h4>Mobile apps</h4>
+                        </div>
+                        <div class="serviceinform">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In sapiente quod quaerat
+                                blanditiis, repellendus veritatis qui libero natus </p>
+                        </div>
+                        <div class="learnmore">
+                            <p>learn more</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="services">
+                        <div class="icon"><i class="fas fa-pencil-alt"></i></div>
+                        <div class="servicename">
+                            <h4>Copywritings</h4>
+                        </div>
+                        <div class="serviceinform">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In sapiente quod quaerat
+                                blanditiis, repellendus veritatis qui libero natus </p>
+                        </div>
+                        <div class="learnmore">
+                            <p>learn more</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="">
+                    <div class="services">
+                        <div class="icon"><i class="fas fa-search"></i></div>
+                        <div class="servicename">
+                            <h4>search engine</h4>
+                        </div>
+                        <div class="serviceinform">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In sapiente quod quaerat
+                                blanditiis, repellendus veritatis qui libero natus </p>
+                        </div>
+                        <div class="learnmore">
+                            <p>learn more</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </section>
+        <div class="contanier">
+            <section class="recentwork" class="common">
+                <div class="title">
+                    <h1>Lorem ipsum dolor sit amet consdae, molestiae laudantium nemo iusto, ipsam expedita quibusdam
+                    </h1>
+                </div>
+                <div class="image">
+                    <img src="img/profile-1498559823-08664ddcce007387d4a564580486b9d8.jpg" alt="">
+                </div>
+                <div class="project project-one">
+                    <div class="title">
+                        <h2>Project title one</h2>
+                    </div>
+                    <div class="projectcontent">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur beatae rem facilis,
+                            quasi in repudianloribus, ue unde.</p>
+                    </div>
+                    <div class="role">
+                        <p>role:design illustration web</p>
+                    </div>
+                    <div class="comment">
+                        <h3>NIce looking our website Lorem, ipsum dolor sit amet consectetur adipisicing eldeleniti
+                            deserunt esse vitae temporibus quam quia. Consequupti magnacommodi</h3>
+                    </div>
+                    <div class="commentname">
+                        <h3>John Dea</h3>
+                    </div>
+                    <div class="visitvebsite">
+                        <a href="">
+                            <p>visit website</p>
+                        </a></div>
+                </div>
+            </section>
+            <section id="onlyimage">
+                <img src="img/profile-1544619486-72d574102f5fd1377ef56cc4144edb74.jpg" alt="">
+            </section>
+            <section class="recentwork2" class="common">
+
+                <div class="project2image">
+                    <img src="img/profile-1498559823-08664ddcce007387d4a564580486b9d8.jpg" alt="">
+                </div>
+                <div class="project project-two">
+                    <div class="title">
+                        <h2>Project title one</h2>
+                    </div>
+                    <div class="projectcontent">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur beatae rem facilis,
+                            quasi in repudianloribus, ue unde.</p>
+                    </div>
+                    <div class="role">
+                        <p>role:design illustration web</p>
+                    </div>
+                    <div class="comment">
+                        <h3>NIce looking our website Lorem, ipsum dolor sit amet consectetur adipisicing eldeleniti
+                            deserunt esse vitae temporibus quam quia. Consequupti magnacommodi</h3>
+                    </div>
+                    <div class="commentname">
+                        <h3>John Dea</h3>
+                    </div>
+                    <div class="visitvebsite">
+                        <a href="">
+                            <p>visit website</p>
+                        </a></div>
+                </div>
+            </section>
+            <section id="onlyimage2">
+                <img src="img/profile-1544619486-72d574102f5fd1377ef56cc4144edb74.jpg" alt="">
+            </section>
+            <section class="recentwork3" class="common">
+
+                <div class="image">
+                    <img src="img/profile-1498559823-08664ddcce007387d4a564580486b9d8.jpg" alt="">
+                </div>
+                <div class="project project-one">
+                    <div class="title">
+                        <h2>Project title one</h2>
+                    </div>
+                    <div class="projectcontent">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur beatae rem facilis,
+                            quasi in repudianloribus, ue unde.</p>
+                    </div>
+                    <div class="role">
+                        <p>role:design illustration web</p>
+                    </div>
+                    <div class="comment">
+                        <h3>NIce looking our website Lorem, ipsum dolor sit amet consectetur adipisicing eldeleniti
+                            deserunt esse vitae temporibus quam quia. Consequupti magnacommodi</h3>
+                    </div>
+                    <div class="commentname">
+                        <h3>John Dea</h3>
+                    </div>
+                    <div class="visitvebsite">
+                        <a href="">
+                            <p>visit website</p>
+                        </a></div>
+                </div>
+            </section>
+            <section id="onlyimage">
+                <img src="img/profile-1544619486-72d574102f5fd1377ef56cc4144edb74.jpg" alt="">
+            </section>
+        </div>
+        <section id="clients" class="common">
+            <div class="clientpanel">
+                <h1 class="clienttitle">Our clients saying</h1>
+                <div class="sayings">
+                    <div class="comment">
+                        <h3>NIce looking our website Lorem, ipsum dolor sit amet consectetur adipisicing eldeleniti
+                            deserunt esse vitae temporibus quam quia. Consequupti magnacommodi</h3>
+                    </div>
+                    <div class="commentname">
+                        <h3>John Dea</h3>
+                    </div>
+                </div>
+                <div class="sayings">
+                    <div class="comment">
+                        <h3>NIce looking our website Lorem, ipsum dolor sit amet consectetur adipisicing eldeleniti
+                            deserunt esse vitae temporibus quam quia. Consequupti magnacommodi</h3>
+                    </div>
+                    <div class="commentname">
+                        <h3>John Dea</h3>
+                    </div>
+                </div>
+                <div class="sayings">
+                    <div class="comment">
+                        <h3>NIce looking our website Lorem, ipsum dolor sit amet consectetur adipisicing eldeleniti
+                            deserunt esse vitae temporibus quam quia. Consequupti magnacommodi</h3>
+                    </div>
+                    <div class="commentname">
+                        <h3>John Dea</h3>
+                    </div>
+                </div>
+                <div class="sayings">
+                    <div class="comment">
+                        <h3>NIce looking our website Lorem, ipsum dolor sit amet consectetur adipisicing eldeleniti
+                            deserunt esse vitae temporibus quam quia. Consequupti magnacommodi</h3>
+                    </div>
+                    <div class="commentname">
+                        <h3>John Dea</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="contanier">
+            <section class="contact" class="common">
+                <div class="contactpanel">
+                    <h1 class="contacttitle">Contuct us</h1>
+                    <form action="">
+                        <input type="text" class="inputname" placeholder="name">
+                        <input type="surname" class="inputsurname" placeholder="surname">
+                        <input type="text" class="inputemail" placeholder="e-mail">
+                        <input type="text" class="inputmessage" placeholder="message">
+                        <input type="button" class="inputbutton" value="Send message">
+                    </form>
+                </div>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <section id="foot" class="common">
+            <div class="footpanel">
+                <div class="us items">
+                    <div class="ustitle title">
+                        <h1>about us</h1>
+                    </div>
+                    <div class="uscontent contents">
+                        <p>Lorem ipsuconsectetur adipisicing elit. Cupiditate perspiciatis laborum inventore at illum
+                            accusamus enim, aspernatur rerum aperiam. Maxime ullam quae iantium cumque?</p>
+                    </div>
+                </div>
+                <div class="navigation items">
+                    <div class="navtitle title">
+                        <h1>Navigation</h1>
+                    </div>
+                    <div class="navcontent title contents">
+                        <ul>
+                            <li>Home</li>
+                            <li>About us</li>
+                            <li>Privacy</li>
+                            <li>Terms</li>
+                            <li>Contact</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="subscribe items">
+                    <div class="subscribetitle title">
+                        <h1>Subscribe newblester</h1>
+                    </div>
+                    <div class="subscribecontent contents">
+                        <form action="">
+                            <input type="text" placeholder="enter e-mail" class="submail">
+                            <input type="button" value="subscribe" class="subbutton">
+                        </form>
+                    </div>
+                </div>
+                
+                <div class="copy">
+                    <p>copyrihted in 2019 Lorem ipsum ggh iu elit. Consequatur ius</p>
+                </div>
+            </div>
+        </section>
+
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,423 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}body{
+    font-family: 'Lato', sans-serif;
+}
+.common{
+    margin-top: 110px;
+}
+.accentpart{
+    float: left;
+}
+.contanier{
+    size: 1040px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.menupart{
+    margin-left: 827px;
+}
+#startproject{
+
+    background-image: url("../img/Rnu82.png");
+    height: 500px;
+    
+}
+.webstudio{
+    font-weight: bold;
+    color: white;
+    font-size: 65px;
+    padding-top: 90px;
+    width: 470px;;
+    padding-left: 150px;
+    
+    
+}
+.webstudiocontent{
+    color: white;
+    width: 470px;
+    padding-top: 30px;
+    padding-left: 170px;
+}
+button{
+    margin-top: 40px;
+    margin-left: 170px;
+    color: white;
+    background-color: #337AB7;
+    border: solid #337AB7;
+    border-radius: 15px;
+    padding: 8px;
+}
+.img{
+    width: 400px;
+}
+.imgarea{
+    float: left;
+    width: 500px;
+}
+.expertweb{
+    font-size: 30px;
+    font-weight: bold;
+    color: #337AB7;
+}
+.contentarea p{
+    margin-top: 30px;
+    color: #777777;
+    font-size: 13px;
+}
+.contentarea ul{
+    color: #777777;
+    margin-top: 20px;
+    font-size: 13px;
+
+}
+.contentarea ul li{
+    margin-top: 10px;
+}
+#branding{
+   height: 849px;
+}
+.james{
+    width: 400px;
+    float: left;
+    margin-right: 15px;
+}
+
+.chris img{
+    margin-left: 20px;
+    width: 410px;
+}
+.james img{
+    width: 410px;
+}
+.name{
+    padding: 30px;
+    font-weight: bold;
+
+}
+.models .content{
+    font-size: 14px;
+    color: #777777;
+}
+
+.inside{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.head h1{
+    padding-top: 90px;
+    padding-bottom: 30px;
+    color: #337AB7;
+    font-size: 25px;
+    width: 500px;
+    font-weight: bold;
+}
+#whatwedo{
+    margin-top: 70px;
+    background-color: #F5F5F5;
+    height: 750px;
+
+}
+.serviceinform p{
+    font-size: 12px;
+    color: #777777;
+    padding: 15px 15px;
+}
+.services{
+    border-top: solid;
+    width: 30%;
+    float: left;
+    margin-left: 16px;
+    border-color: #337AB7;
+    background: white;
+    margin-top: 16px;
+    
+}
+.servicename{
+    font-weight: bold;
+    padding-top: 25px;
+    padding-left: 15px;
+
+}
+.icon{
+    padding-top: 25px;
+    padding-left: 15PX;
+    color: #337AB7;
+    font-size: 30px;
+}
+.learnmore p{
+    font-weight: bold;
+    font-size: 13px;
+    color: #337AB7;
+    padding: 15px;
+
+}
+.title h1{
+    padding-top: 90px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: #337AB7;
+    font-size: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: bold;
+}
+.image{
+    float: left;
+}
+
+
+.project-one{
+margin-left: 500px;
+
+}
+.title h2{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.projectcontent p{
+    color: #777777;
+    font-size: 15px;
+    padding-top: 17px;
+}
+.role p{
+    color: #777777;
+    font-size: 15px;
+    padding-top: 17px;
+}
+.comment h3{
+    border-left: solid;
+    border-color: rgb(155, 153, 153);
+    margin-top: 20px;
+    padding-left: 15px;
+    font-weight: 400;
+    border-width: 5px;
+    color: grey;
+}
+.commentname h3{
+    color: #777777;
+    font-size: 15px;
+    padding-top: 17px;
+}
+
+.visitvebsite a{
+    text-decoration: none;
+}
+.visitvebsite{
+    margin-top: 30px;
+}
+.recentwork{
+    height: 675px;
+}
+.project{
+margin-top: 30px;
+width: 320px;
+}
+.recentwork2{
+    height: 505px;
+}
+.project2image{
+    float: right;
+
+}
+#onlyimage2{
+    
+    height: 500px;
+    width: 100%;
+}
+#onlyimage2 img{
+    float: right;
+}
+.recentwork3{
+    height: 505px;
+}
+#clients{
+    background-color: rgb(247, 247, 247);
+    height: 500px;
+}
+.clientpanel{
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.sayings{
+    float: left;
+    width: 50%;
+    margin-top: 20px;
+}
+.clienttitle{
+    font-size: 25px;
+    font-weight: bold;
+    color: #337AB7;
+    text-align: center;
+    padding: 30px;
+    padding-top: 60px;
+}
+.contactpanel{
+    margin-top: 90px;
+    border: hidden;
+    width: 100%;
+    height: 550px;
+    box-shadow: 2.424px 4.373px 17px 0 rgba(0,0,0,.14);
+}
+
+.inputname{
+    
+    width: 50%;
+    box-sizing: border-box;
+    
+
+}
+.inputsurname{
+    margin-left: 1%;
+    width: 48%;
+    
+  
+}
+.inputemail{
+    width: 100%;
+    
+    
+    
+}
+.inputmessage{
+width: 100%;
+
+height: 200px;
+
+
+}
+.inputbutton{
+    padding: 15px;
+    background-color: #337AB7;
+    border-radius: 25px;
+    
+    border: solid;
+    border-color: #337AB7;
+    color: white;
+}
+input{
+    padding: 12px;
+    background-color: rgb(245, 245, 245);
+    border-color: rgb(245, 245, 245);
+    border: hidden;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.contactpanel form{
+    margin: 50px;
+}
+.contacttitle{
+    font-weight: bold;
+    font-size: 30px;
+    color: #337AB7;
+    text-align: center;
+    padding-top: 40px;
+}
+#foot{
+    height: 600px;
+    background-color: #333333;
+    
+}
+footer .title h1{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 200px;
+    text-align: start;
+    padding: 0px;
+}
+
+.footpanel{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.items{
+    float: left;
+    width: calc(100%/3 - 30px);
+    height: 500px;
+}
+.contents{
+    color: grey;
+    margin-top: 30px;
+}
+.navigation{
+    padding-left: 120px;
+    box-sizing: border-box;
+}
+.subscribe{
+    float: right;
+    padding-left: 20px;
+    
+}
+.subbutton{
+    padding: 10px 30px;
+    background-color: #337AB7;
+    border-radius: 25px;
+    border: solid;
+    border-color: #337AB7;
+    color: white;
+}
+.submail{
+    background-color: #c9c9c9;
+}
+.copy p{
+    padding-top: 550px;
+    text-align: center;
+    color: #777777;
+}
+
+footer{
+    margin-top: 0px;
+}
+main{
+    margin-bottom: 0px;
+}
